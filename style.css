@@ -1,0 +1,68 @@
+    @import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@1,400;1,600&family=Prata&display=swap');
+
+    body {
+        background-color: #EFBCD5;
+        margin: 0;
+        font-family: 'Montserrat';
+    }
+
+    .footer {
+        background-color: #4B5267;
+        color: #E4E5EB;
+        padding: 16px;
+    }
+
+    .footer a:visited {
+        color:#E4E5EB;
+    }
+
+    div.main-section div.image-container img {
+        height: 500px;
+        background-image: url(https://turismo.puglia.it/wp-content/uploads/sites/124/vieste-hd.jpg);
+    }
+
+    .main-section h1 {
+        color: #2E294E;
+        font-family: 'Prata';
+        font-size: 64px;
+        font-weight: 400;
+        margin-bottom: 0;
+    }
+
+    .main-section h3 {
+        color: #2E294E;
+        font-family: 'Prata';
+        font-size: 24px;
+        font-weight: 400;
+        margin-top: 0;
+        margin-bottom: 0;
+    }
+
+    .main-section h6 {
+        font-size: 22px;
+        color: #7847c7;
+        padding: 22px;
+        margin-bottom: 0px;
+        margin-top: 56px;
+        border-radius: 6px;
+        background: linear-gradient(#D34A8D, #EFBCD5);
+    }
+
+    .main-section ul {
+        color: #2E294E;
+        padding: 0;
+    }
+
+    .main-section li {
+        padding-top: 6px;
+        padding-bottom: 6px;
+        padding-left: 22px;
+        border-bottom: solid 0px #dfdfdf;
+    }
+    
+    li a {
+        font-weight: 600;
+        font-style: italic;
+        text-decoration-line: none;
+        color: #D34A8D;
+    }
