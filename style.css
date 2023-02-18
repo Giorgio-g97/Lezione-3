@@ -1,7 +1,7 @@
     @import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@1,400;1,600&family=Prata&display=swap');
 
     body {
-        background-color: #EFBCD5;
+        background-color: #B8E0D2;
         margin: 0;
         font-family: 'Montserrat';
     }
@@ -40,12 +40,12 @@
 
     .main-section h6 {
         font-size: 22px;
-        color: #7847c7;
+        color: #55B493;
         padding: 22px;
         margin-bottom: 0px;
         margin-top: 56px;
         border-radius: 6px;
-        background: linear-gradient(#D34A8D, #EFBCD5);
+        background: linear-gradient(#95B8D1, #C6D9E6);
     }
 
     .main-section ul {
@@ -64,5 +64,5 @@
         font-weight: 600;
         font-style: italic;
         text-decoration-line: none;
-        color: #D34A8D;
+        color: #809BCE;
     }
