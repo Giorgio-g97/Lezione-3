@@ -1,7 +1,7 @@
     @import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@1,400;1,600&family=Prata&display=swap');
 
     body {
-        background-color: #7e99b5;
+        background-color: #7E99B5;
         margin: 0;
         font-family: 'Montserrat';
     }
@@ -14,8 +14,10 @@
 
     .footer {
         display:flex;
+        width:100%;
+        position: fixed;
         align-items: center;
-        background-color: #455a70;
+        background-color: #253F59;
         height: 70px;
     }
 
@@ -36,13 +38,17 @@
 
     /* Pagina Principale */
 
+    #main-text {
+        margin-left: 15px;
+    }
+
     .main-section img {
         height: 30%;
         width: 100%;
     }
 
     .main-section h1 {
-        color: #2E294E;
+        color: #253F59;
         font-family: 'Prata';
         font-size: 64px;
         font-weight: 400;
@@ -50,7 +56,7 @@
     }
 
     .main-section h3 {
-        color: #2E294E;
+        color: #253F59;
         font-family: 'Prata';
         font-size: 24px;
         font-weight: 400;
@@ -60,12 +66,12 @@
 
     .main-section h6 {
         font-size: 22px;
-        color: #55B493;
+        color: #7E99B5;
         padding: 22px;
         margin-bottom: 0px;
-        margin-top: 56px;
+        margin-top: 10px;
         border-radius: 6px;
-        background: linear-gradient(#95B8D1, #C6D9E6);
+        background: linear-gradient(#253F59, #5B7691);
     }
 
     .main-section ul {
